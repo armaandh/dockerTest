@@ -1,0 +1,10 @@
+/Users/armaandh/Development/dockerAttempt/bin/Debug/netcoreapp2.0/dockerAttempt.deps.json
+/Users/armaandh/Development/dockerAttempt/bin/Debug/netcoreapp2.0/dockerAttempt.runtimeconfig.json
+/Users/armaandh/Development/dockerAttempt/bin/Debug/netcoreapp2.0/dockerAttempt.runtimeconfig.dev.json
+/Users/armaandh/Development/dockerAttempt/bin/Debug/netcoreapp2.0/dockerAttempt.dll
+/Users/armaandh/Development/dockerAttempt/bin/Debug/netcoreapp2.0/dockerAttempt.pdb
+/Users/armaandh/Development/dockerAttempt/obj/Debug/netcoreapp2.0/dockerAttempt.csproj.CoreCompileInputs.cache
+/Users/armaandh/Development/dockerAttempt/obj/Debug/netcoreapp2.0/dockerAttempt.AssemblyInfoInputs.cache
+/Users/armaandh/Development/dockerAttempt/obj/Debug/netcoreapp2.0/dockerAttempt.AssemblyInfo.cs
+/Users/armaandh/Development/dockerAttempt/obj/Debug/netcoreapp2.0/dockerAttempt.dll
+/Users/armaandh/Development/dockerAttempt/obj/Debug/netcoreapp2.0/dockerAttempt.pdb
