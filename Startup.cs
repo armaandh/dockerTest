@@ -28,7 +28,11 @@ namespace dockerAttempt
             //var hostname = Environment.GetEnvironmentVariable("SQLSERVER_HOST") ?? "localhost";
             //var password = Environment.GetEnvironmentVariable("SQLSERVER_SA_PASSWORD") ?? "Testing123";
             //var connString = $"Data Source={hostname};Initial Catalog=KontenaAspnetCore;User ID=sa;Password={password};";
+<<<<<<< HEAD
 
+=======
+            
+>>>>>>> 0a1f719dc6fe8a63e607445e6ec8ce3e8bafb267
             var connection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<ApiContext>(options => options.UseSqlServer(connection));
         }
